@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675134850 source:d:\mastering data structures with c & c++\array adt\array adt\array_get_set_max\main.c
+	<stdio.h>
+	<stdlib.h>
+
