@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675242739 source:d:\mastering_data_structures\array adt\array adt\menu_driver_program\main.c
+	<stdio.h>
+	<stdlib.h>
+
