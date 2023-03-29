@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680055912 source:d:\mastering_data_structures\8_sparse matrix_polynomial representation\sparse matrix_create_add\main.c
+	<stdio.h>
+	<stdlib.h>
+
