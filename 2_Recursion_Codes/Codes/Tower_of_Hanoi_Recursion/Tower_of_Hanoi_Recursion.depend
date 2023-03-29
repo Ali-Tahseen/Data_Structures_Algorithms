@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673279762 source:d:\mastering data structures with c & c++\recursion codes\codes\tower_of_hanoi_recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
