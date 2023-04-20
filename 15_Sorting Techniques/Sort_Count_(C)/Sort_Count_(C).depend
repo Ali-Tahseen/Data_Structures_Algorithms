@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681962894 source:d:\mastering_data_structures\15_sorting techniques\sort_count_(c)\main.c
+	<stdio.h>
+	<stdlib.h>
+

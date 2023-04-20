@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681957345 source:d:\mastering_data_structures\15_sorting techniques\sort_merge_recursive_(c)\main.c
+	<stdio.h>
+	<stdlib.h>
+
